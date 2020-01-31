@@ -14,3 +14,7 @@ Munkhbayan (Bryan) Togtokh
 ### Output File (`dayatthezoo.out`) Location:
 
 #### `Zoo`
+
+### Running the Program
+
+#### simply load the `Zoo` package, and run the `Main.java` program in your favorite IDE
