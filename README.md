@@ -9,12 +9,12 @@ Munkhbayan (Bryan) Togtokh
 
 ### Problem 4 Code File Directory
 
-#### `Zoo/src/com/zoo`
+`Zoo/src/com/zoo`
 
 ### Output File (`dayatthezoo.out`) Location:
 
-#### `Zoo`
+`Zoo`
 
 ### Running the Program
 
-#### simply load the `Zoo` package, and run the `Main.java` program in your favorite IDE
+simply load the `Zoo` package, and run the `Main.java` program in your favorite IDE
