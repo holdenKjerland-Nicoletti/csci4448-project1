@@ -1,13 +1,13 @@
 # Project 1: Object-Oriented Design and Analysis
 
-## Team Members:
+## Team Members
 Nicole Richter
 
 Holden Kjerland-Nicoletti
 
 Munkhbayan (Bryan) Togtokh
 
-### Problem 4 Code File Directory:
+### Problem 4 Code File Directory
 
 #### `Zoo/src/com/zoo`
 
