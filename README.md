@@ -7,10 +7,10 @@ Holden Kjerland-Nicoletti
 
 Munkhbayan (Bryan) Togtokh
 
-## Problem 4 Code File Directory:
+### Problem 4 Code File Directory:
 
-### `Zoo/src/com/zoo`
+#### `Zoo/src/com/zoo`
 
-## Output File (`dayatthezoo.out`) Location:
+### Output File (`dayatthezoo.out`) Location:
 
-### `Zoo/src`
+#### `Zoo/src`
