@@ -13,4 +13,4 @@ Munkhbayan (Bryan) Togtokh
 
 ### Output File (`dayatthezoo.out`) Location:
 
-#### `Zoo/src`
+#### `Zoo`
