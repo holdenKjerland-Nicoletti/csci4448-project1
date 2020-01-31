@@ -89,25 +89,25 @@ public class Main {
         System.out.println("---------------------------------");
         zookeeper.shutDownZoo(zoo);
 
-//        //redirecting system output to outfile (https://www.geeksforgeeks.org/redirecting-system-out-println-output-to-a-file-in-java/)
-//        PrintStream o = new PrintStream(new File("dayatthezoo.out"));
-//
-//        // Store current System.out before assigning a new value
-//        PrintStream console = System.out;
-//
-//        // Assign o to output stream
-//        System.setOut(o);
-//        System.out.println("Nicole Richter & Holden Kjerland-Nicoletti & Munkhbayan (Bryan) Togtokh\nProject 1 Question 4\n\n");
-//
-//        zookeeper.wakeUpAnimals(zoo);
-//        System.out.println("---------------------------------");
-//        zookeeper.rollCall(zoo);
-//        System.out.println("---------------------------------");
-//        zookeeper.feed(zoo);
-//        System.out.println("---------------------------------");
-//        zookeeper.exercise(zoo);
-//        System.out.println("---------------------------------");
-//        zookeeper.shutDownZoo(zoo);
+        //redirecting system output to outfile (https://www.geeksforgeeks.org/redirecting-system-out-println-output-to-a-file-in-java/)
+        PrintStream o = new PrintStream(new File("dayatthezoo.out"));
+
+        // Store current System.out before assigning a new value
+        PrintStream console = System.out;
+
+        // Assign o to output stream
+        System.setOut(o);
+        System.out.println("Nicole Richter & Holden Kjerland-Nicoletti & Munkhbayan (Bryan) Togtokh\nProject 1 Question 4\n\n");
+
+        zookeeper.wakeUpAnimals(zoo);
+        System.out.println("---------------------------------");
+        zookeeper.rollCall(zoo);
+        System.out.println("---------------------------------");
+        zookeeper.feed(zoo);
+        System.out.println("---------------------------------");
+        zookeeper.exercise(zoo);
+        System.out.println("---------------------------------");
+        zookeeper.shutDownZoo(zoo);
 
     }
 }
